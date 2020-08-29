@@ -1,1 +1,1 @@
-# codequiz.io
+https://kikaiaku.github.io/codequiz.io/
